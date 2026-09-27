@@ -25,6 +25,6 @@ In **Hell Jump** you control a red cube trying to get out of Hell. Because the o
 
 ## Tech Stack
 
-- **Engine:** Godot 4.6
+- **Engine:** Godot 4
 - **Language:** GDScript
 - **Other tools:** Piskel
