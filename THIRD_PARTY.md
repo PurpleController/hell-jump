@@ -26,7 +26,7 @@ Created by **cegniz**.
 A third-party Godot addon used for AdMob integration.
 
 - Author: cegniz
-- Please refer to the addon files for its license and usage terms.
+- Licence: [MIT](https://github.com/godot-sdk-integrations/godot-admob/blob/main/LICENSE)
 
 ## Piskel
 
@@ -35,7 +35,16 @@ A third-party Godot addon used for AdMob integration.
 Used for creating pixel art assets.
 
 - Website: https://www.piskelapp.com/
-- License: Refer to Piskel's licensing information.
+- License: [Apache Licence 2.0](https://github.com/piskelapp/piskel/blob/master/LICENSE)
+
+## Aseprite
+
+**Aseprite**
+
+Also used for creating pixel art assets.
+
+- Website: [https://www.piskelapp.com/](https://www.aseprite.org/)
+- License: [Refer to Piskel's licensing information.](https://github.com/aseprite/aseprite/blob/main/EULA.txt)
 
 ## Notes
 
