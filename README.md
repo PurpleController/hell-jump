@@ -23,8 +23,5 @@ In **Hell Jump** you control a red cube trying to get out of Hell. Because the o
 - Linux
 - Android
 
-## Tech Stack
-
-- **Engine:** Godot 4
-- **Language:** GDScript
-- **Other tools:** Piskel
+## Licence
+This game is licenced under a custom source-available licence. Third party liceces are in [THIRD_PARTY.md](https://github.com/PurpleController/hell-jump/blob/main/THIRD_PARTY.md)
