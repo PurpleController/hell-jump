@@ -16,6 +16,7 @@ In **Hell Jump** you control a red cube trying to get out of Hell. Because the o
 - **Hell Jump on [itch.io](https://aramczgames.itch.io/hell-jump)**
 - **Hell Jump on [Snap Store](https://snapcraft.io/helljump)**
 - **Hell Jump on [Game Jolt](https://gamejolt.com/games/helljump/1075106)**
+- **Hell Jump on [Microsoft Store](https://apps.microsoft.com/detail/9ppt457k51vv)**
 
 # Platforms
 
